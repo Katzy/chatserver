@@ -10,7 +10,7 @@ gem 'thin'
 
 gem 'foreman'
 
-gem 'sqlite3'
+
 
 gem 'pg', '~> 0.15'
 # Use SCSS for stylesheets
